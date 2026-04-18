@@ -39,3 +39,7 @@ MIT License
 ---
 
 Built by [The BookMaster](https://github.com/Retsumdk) with [Zo Computer](https://zo.computer)
+
+## 🔗 Related Repos
+- [bulk-email-processor](https://github.com/Retsumdk/bulk-email-processor) — Queue-based email processing
+- [api-key-manager](https://github.com/Retsumdk/api-key-manager) — API key management
