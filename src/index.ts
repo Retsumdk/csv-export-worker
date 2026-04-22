@@ -1,7 +1,7 @@
 #!/usr/bin/env bun
 /**
  * csv-export-worker - Async CSV/Excel export from database queries
- * Built with Zo Computer by The BookMaster
+ * Built by Retsumdk
  */
 
 import { Command } from "commander";
