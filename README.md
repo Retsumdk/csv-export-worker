@@ -12,7 +12,7 @@ Async CSV/Excel export from database queries
 - Production-ready code
 - TypeScript/Python with full type safety
 - Comprehensive error handling
-- Built with Zo Computer by The BookMaster
+- Built by Retsumdk
 
 ## Installation
 
@@ -38,7 +38,7 @@ MIT License
 
 ---
 
-Built by [The BookMaster](https://github.com/Retsumdk) with [Zo Computer](https://zo.computer)
+Built by [Retsumdk](https://github.com/Retsumdk)
 
 ## 🔗 Related Repos
 - [bulk-email-processor](https://github.com/Retsumdk/bulk-email-processor) — Queue-based email processing
